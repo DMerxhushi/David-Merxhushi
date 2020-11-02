@@ -32,19 +32,33 @@
 ### The road so far:
 
 :closed_book: CSIT111 	Programming Fundamentals 	                :heavy_check_mark:
+<br />
 :closed_book: CSIT113 	Problem Solving 	                        :heavy_check_mark:
+<br />
 :closed_book: CSIT114 	System Analysis 	                        :heavy_check_mark:
+<br />
 :closed_book: CSIT115 	Data Management and Security 	            :heavy_check_mark:
+<br />
 :closed_book: CSIT121 	Object Oriented Design and Programming 	  :heavy_check_mark:
+<br />
 :closed_book: CSIT127 	Networks and Communications               :heavy_check_mark:
+<br />
 :closed_book: CSIT128 	Introduction to Web Technology 	          :heavy_check_mark:
+<br />
 :closed_book: CSCI235 	Database Systems 	                        :heavy_check_mark:
+<br />
 :closed_book: CSCI251 	Advanced Programming                      :heavy_check_mark:
+<br />
 :closed_book: CSIT214 	IT Project Management 
+<br />
 :closed_book: MATH221 	Mathematics for Computer Science 	
+<br />
 :closed_book: CSCI203 	Algorithms and Data Structures 	          :heavy_check_mark:
+<br />
 :closed_book: CSIT226 	Human Computer Interaction                :heavy_check_mark:
+<br />
 :closed_book: CSIT314 	Software Development Methodologies 	
+<br />
 :closed_book: CSIT321 	Project
 
 
