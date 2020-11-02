@@ -33,6 +33,8 @@
 <br />
 :books: Latex
 <br />
+:books: Python
+<br />
 :books: HTML
 <br />
 :books: CSS
