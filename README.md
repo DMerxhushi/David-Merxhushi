@@ -4,10 +4,10 @@
 ## I'm a Computer science student , Majoring in cyber security at University of Wollongong Australia.
 
 - 🔭 The thirst for knowledge continues!
-- 🌱 Growth is an essential part of life 🤣
+- 🌱 Growth is an essential part of learning
 - 👯 Always looking for collaboration
 - 🥅 2020 Goals: Keep pushing till this degree is complete
-- <i class='fas fa-hiking'></i> Always time for an adventure
+
 
 
 
