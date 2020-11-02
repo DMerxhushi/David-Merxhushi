@@ -7,26 +7,53 @@
 - 👯 Always looking for collaboration
 - 🥅 2020 Goals: Keep pushing till this degree is complete
 
+<br />
 
-
-
-### Connect with me:
-
-<img align="left" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
+### Operating system:
+:floppy_disk: Ubuntu-Linux-Debian
+<br />
+:floppy_disk: Fedora-Linux-RedHat
+<br />
+:floppy_disk: Windows-10
+<br />
+:floppy_disk: Mac-OS
+<br />
+:floppy_disk: Android
+<br />
+:floppy_disk: Kali-Linux-Debian
 <br />
 
 
+
+
+
 ### Competent in:
-
-
-
-
-
+:books: C++
+<br />
+:books: Java
+<br />
+:books: JavaScript
+<br />
+:books: Latex
+<br />
+:books: HTML
+<br />
+:books: CSS
+<br />
+:books: MongoDB
+<br />
+:books: SQL
+<br />
+:books: AJAX
+<br />
+:books: XML
+<br />
+:books: XSL
+<br />
+:books: JSON
+<br />
+:books: Kotlin
+<br />
 <br />
 
 ### The road so far:
@@ -60,5 +87,28 @@
 :closed_book: CSIT314 	Software Development Methodologies 	
 <br />
 :closed_book: CSIT321 	Project
+<br />
 
+#### Majoring in:
+
+
+:blue_book: CSCI301	Contemporary Topics in Security	
+<br />
+:blue_book: CSCI262	System Security	
+<br />
+:blue_book: CSCI369	Ethical Hacking	
+<br />
+:blue_book: CSIT302	Cybersecurity	
+<br />
+    
+
+### Connect with me:
+
+<img align="left" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+<br />
 
