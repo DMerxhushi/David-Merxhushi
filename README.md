@@ -1,7 +1,7 @@
-### Hi there, I'm David Merxhushi  👋
+## Hi there, I'm David Merxhushi  👋
 
 
-## I'm a Computer science student , Majoring in cyber security at University of Wollongong Australia.
+### I'm a Computer science student , Majoring in cyber security at University of Wollongong Australia.
 
 - 🔭 The thirst for knowledge continues!
 - 🌱 Growth is an essential part of learning
