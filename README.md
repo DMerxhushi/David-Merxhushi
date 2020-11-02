@@ -3,9 +3,6 @@
 
 ### I'm a Computer science student , Majoring in cyber security at University of Wollongong Australia.
 - :closed_book: The thirst for knowledge continues!
-- 🌱 Growth is an essential part of learning
-- 👯 Always looking for collaboration
-- 🥅 2020 Goals: Keep pushing till this degree is complete
 
 <br />
 
