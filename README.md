@@ -2,7 +2,6 @@
 
 
 ### I'm a Computer science student , Majoring in cyber security at University of Wollongong Australia.
- #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 - 🔭 The thirst for knowledge continues!
 - 🌱 Growth is an essential part of learning
 - 👯 Always looking for collaboration
