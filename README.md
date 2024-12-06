@@ -83,21 +83,21 @@
 <br />
 :closed_book: CSIT226 	Human Computer Interaction                :heavy_check_mark:
 <br />
-:closed_book: CSIT314 	Software Development Methodologies 	
+:closed_book: CSIT314 	Software Development Methodologies 	     :heavy_check_mark:
 <br />
-:closed_book: CSIT321 	Project
+:closed_book: CSIT321 	Project                                 :heavy_check_mark:
 <br />
 
 #### Majoring in:
 
 
-:blue_book: CSCI301	Contemporary Topics in Security	
+:blue_book: CSCI301	Contemporary Topics in Security	  :heavy_check_mark:
 <br />
-:blue_book: CSCI262	System Security	
+:blue_book: CSCI262	System Security	    :heavy_check_mark:
 <br />
-:blue_book: CSCI369	Ethical Hacking	
+:blue_book: CSCI369	Ethical Hacking	   :heavy_check_mark:
 <br />
-:blue_book: CSIT302	Cybersecurity	
+:blue_book: CSIT302	Cybersecurity	  :heavy_check_mark:
 <br />
     
 
